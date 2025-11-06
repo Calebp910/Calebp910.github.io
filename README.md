@@ -1,4 +1,2 @@
-# Calebp910.github.io
-
-Hello, I am Caleb
+Hello, I am Caleb. I like math, I am bad at golf.
 
